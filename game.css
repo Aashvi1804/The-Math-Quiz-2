@@ -1,0 +1,57 @@
+
+h3 {
+    color: blue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+
+#username_1 {
+    color: black;
+    font-family: 'Hurricane', cursive;
+    font-size: 30px;
+}
+
+#player1_name_input {
+   background-color: grey;
+   color: white;
+   font-family: 'Courier New', Courier, monospace;
+}
+#player2_name_input {
+    background-color: grey;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ h1 {
+    color: #ff0073;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px; 
+ }
+
+ #login_btn {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+ }
+ #heading {
+ color: rgb(243, 243, 116);
+ font-size: 20px;
+ font-family:cursive;
+ }
+ #num1 {
+    color: grey;
+    font-size: 20px;
+    font-family: monospace;
+ }
+ #num2 {
+   color: grey;
+   font-size: 20px;
+   font-family: monospace;
+ }
+ #output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
